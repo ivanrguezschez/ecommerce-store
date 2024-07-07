@@ -1,5 +1,7 @@
 # EcommerceStore
 
+Proyecto de ejemplo de Angular 17
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.8.
 
 ## Development server
@@ -25,3 +27,18 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+## Web de bloques de tailwindcss
+https://tailblocks.cc/
+
+## Enlaces de Tailwindcss
+https://tailwindtoolbox.com/icons
+https://tailwindui.com/components/application-ui/elements/badges
+
+https://tailwindui.com/components/marketing/elements/flyout-menus
+https://tailwindui.com/components/application-ui/navigation/navbars
+
+
+## Infraestructura financiera para aumentar tus ingresos
+https://stripe.com/es
